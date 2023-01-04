@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>styles/darkgold.qss</file>
+        <file>Resource/icon.png</file>
+        <file>renderer/fshader.glsl</file>
+        <file>renderer/vshader.glsl</file>
+        <file>Resource/icon_lot.png</file>
+        <file>Resource/icon_stone.png</file>
+    </qresource>
+</RCC>
