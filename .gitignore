@@ -1,0 +1,6 @@
+.qmake.stash
+DDMod
+Makefile
+qrc_ddons.cpp
+*.o
+moc_*
