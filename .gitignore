@@ -2,5 +2,6 @@
 DDMod
 Makefile
 qrc_ddons.cpp
-*.o
 moc_*
+*.o
+*~
