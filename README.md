@@ -1,4 +1,4 @@
-# ddmod-tool
+# DDmod-tool
 Dragon's Dogma Mod Editor&amp;Viewer
 # Compile instructions
 * Build QT from source and uncomment dds project some where in [QtDir]\Src\qtimageformats\src\plugins\imageformats\dds
